@@ -1,9 +1,8 @@
-<!-- SVG Wave Header -->
-<img src="https://svgshare.com/i/xYj.svg" width="100%" height="150" />
+
 
 <!-- Typing animated intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Hello+Folks!+This+is+Aman+Raj+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=I+am+Aman+Raj+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -77,11 +76,4 @@
 <img src="https://svgshare.com/i/xYk.svg" width="100%" height="150" />
 
 <!-- Bouncing Keyframes (used by social icons) -->
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
-  40% {transform: translateY(-10px);}
-  60% {transform: translateY(-5px);}
-}
-</style>
 
