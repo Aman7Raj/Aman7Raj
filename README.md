@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Frontend Development**
 - 🤝 Looking for help with **Competitive Programming**
 - 💬 Ask me about **Open Source contributions**
-- 📫 Reach me at: **itsamansharma2003@gmail.com**
+- 📫 How to reach me: Connect with me through social media**
 - ⚡ Fun fact: *I debug like Sherlock—but with more panic.*
 
 ---
