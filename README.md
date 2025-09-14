@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  I'm Aman Raj, a 2nd-year B.Tech Computer Science student — building, breaking, and fixing one line of code at a time 💻✨
+  I'm Aman Raj, a 3rd-year B.Tech Computer Science student — building, breaking, and fixing one line of code at a time 💻✨
 </h3>
 
 <!-- Coding gif -->
