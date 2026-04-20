@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Aman Raj,Pre-Final Year CSE Student with a passion for Java programming, Data Science, and Web Development. Skilled in DSA, APIs, and full-stack technologies, with hands-on experience in building real-world projects and hackathon solutions. Enthusiastic about AI, Cloud Computing, and scalable tech innovations.
+I am Aman Raj, Pre-Final Year CSE Student with a passion for Java programming, Data Science, and Web Development. Skilled in DSA, APIs, and full-stack technologies, with hands-on experience in building real-world projects and hackathon solutions. Enthusiastic about AI, Cloud Computing, and scalable tech innovations.
 
 
 ## 🌐 Socials:
@@ -22,4 +22,21 @@ I am Aman Raj,Pre-Final Year CSE Student with a passion for Java programming, Da
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman7Raj&theme=tokyo-night"/>
 </p>
+
+## ⚡ Contribution Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 🧮 Contribution Distribution
+
+```text
+🟢 Commits        : 64%
+🟡 Pull Requests  : 10%
+🔴 Issues         : 6%
+🔵 Code Reviews   : 20%
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
