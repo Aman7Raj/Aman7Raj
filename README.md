@@ -1,10 +1,6 @@
 # 💫 About Me:
 I’m Aman Raj, a CSE student driven to solve real-world problems using code. Skilled in Java, Data Science, and full-stack development, I build scalable applications that go beyond theory—focusing on impact, innovation, and real users. Currently exploring AI, cloud computing, and startup-driven solutions.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aman_7_raj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-raj-993860295/) 
-
 ## 🌐 Connect with me
 
 <p align="center">
@@ -14,8 +10,8 @@ I’m Aman Raj, a CSE student driven to solve real-world problems using code. Sk
   <a href="https://linkedin.com/in/aman-raj-993860295">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/AmanVinogeet003">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+ <a href="https://x.com/AmanVinogeet003">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="48" />
   </a>
   <a href="https://github.com/Aman7Raj">
     <img src="https://skillicons.dev/icons?i=github" />
