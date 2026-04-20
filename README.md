@@ -1,12 +1,6 @@
 # 💫 About Me:
 I’m Aman Raj, a CSE student driven to solve real-world problems using code. Skilled in Java, Data Science, and full-stack development, I build scalable applications that go beyond theory—focusing on impact, innovation, and real users. Currently exploring AI, cloud computing, and startup-driven solutions.
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Profile+Visitors+Counter+below+👇" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aman7Raj&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-</p>
 ## 🌐 Connect with me
 
 <p align="center">
