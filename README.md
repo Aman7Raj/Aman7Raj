@@ -7,18 +7,18 @@ I’m Aman Raj, a CSE student driven to solve real-world problems using code. Sk
 
 ## 🌐 Connect with me
 
-<p align="left">
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<p align="center">
+  <a href="https://instagram.com/aman_7_raj">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/aman-raj-993860295">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/AmanVinogeet003">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Aman7Raj">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
