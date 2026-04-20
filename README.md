@@ -26,17 +26,10 @@ I am Aman Raj, Pre-Final Year CSE Student with a passion for Java programming, D
 ## ⚡ Contribution Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman7Raj&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman7Raj&theme=tokyonight" height="180em"/>
 </p>
 
 ---
 
-## 🧮 Contribution Distribution
 
-```text
-🟢 Commits        : 64%
-🟡 Pull Requests  : 10%
-🔴 Issues         : 6%
-🔵 Code Reviews   : 20%
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
