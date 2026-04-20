@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Aman Raj, Pre-Final Year CSE Student with a passion for Java programming, Data Science, and Web Development. Skilled in DSA, APIs, and full-stack technologies, with hands-on experience in building real-world projects and hackathon solutions. Enthusiastic about AI, Cloud Computing, and scalable tech innovations.
+I’m Aman Raj, a CSE student driven to solve real-world problems using code. Skilled in Java, Data Science, and full-stack development, I build scalable applications that go beyond theory—focusing on impact, innovation, and real users. Currently exploring AI, cloud computing, and startup-driven solutions.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@ I am Aman Raj, Pre-Final Year CSE Student with a passion for Java programming, D
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aman7Raj&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman7RajE&theme=tokyonight" height="180"/>
+  
 </p>
 
 ---
