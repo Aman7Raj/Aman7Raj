@@ -31,20 +31,6 @@ I’m Aman Raj, a CSE student driven to solve real-world problems using code. Sk
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman7Raj&show_icons=true&theme=tokyonight" height="180"/>
-  
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman7Raj&theme=tokyo-night"/>
-</p>
 
 ## ⚡ Contribution Stats
 
@@ -53,16 +39,22 @@ I’m Aman Raj, a CSE student driven to solve real-world problems using code. Sk
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman7Raj&theme=tokyonight" height="180em"/>
 </p>
 
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman7Raj&theme=tokyo-night"/>
+</p>
+
+
+
 ## 📊 Contribution Breakdown
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman7Raj&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman7Raj&theme=tokyonight" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman7Raj&theme=tokyonight" height="180em"/>
-</p>
+
 ---
 
 
