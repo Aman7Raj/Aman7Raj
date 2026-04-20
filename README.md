@@ -30,6 +30,16 @@ I am Aman Raj, Pre-Final Year CSE Student with a passion for Java programming, D
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman7Raj&theme=tokyonight" height="180em"/>
 </p>
 
+## 📊 Contribution Breakdown
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman7Raj&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman7Raj&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman7Raj&theme=tokyonight" height="180em"/>
+</p>
 ---
 
 
