@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Aman Raj, a CSE student driven to solve real-world problems using code. Skilled in Java, Data Science, and full-stack development, I build scalable applications that go beyond theory—focusing on impact, innovation, and real users. Currently exploring AI, cloud computing, and startup-driven solutions.
+I’m Aman Raj, a Computer Science student with a strong interest in software development and problem-solving. I enjoy building practical projects that address real-world challenges and give me opportunities to learn new things. I’m a curious and adaptable person, and I’m currently focused on strengthening my programming skills while exploring AI and modern software solutions
 
 ## 🌐 Connect with me
 
